@@ -86,7 +86,7 @@
 
 |이름 |이정환|![이정환](/asset/이정환.jpg)|
 |연락처 |ljhwan8111@naver.com|
-|skill set| Language - C, JAVA, Python, HTML/CSS/Javascript|
+|skill set| Language - JAVA, Python, HTML/CSS/JavaScript|
 | | Frameword - Spring(Boot), Flask, React, JPA|
 | | Database - Oracle, MySQL|
 | | Etc - Git, Oracle Cloud|
@@ -95,7 +95,6 @@
 |수상| |
 | | |
 |특기사항| 당구 |
-|교육| 이노베이션 아카데미(42 Seoul)| 2021.11 ~ 2021.12|
-| | 하나금융티아이 채용연계형 교육| 2022.03 ~ 현재|
+|교육| 하나금융티아이 채용연계형 교육| 2022.03 ~ 2022.11|
 
 [프로젝트 홈페이지 - https://hwaner.github.io/project-hint/](https://hwaner.github.io/project-hint/)
